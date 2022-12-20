@@ -32,6 +32,17 @@
     
     <entry>
       <title></title>
+      <link href="/js/ali_font.js"/>
+      <url>/js/ali_font.js</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
